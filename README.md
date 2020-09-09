@@ -1,7 +1,7 @@
 ![proffy](https://user-images.githubusercontent.com/67304620/92620862-84ca7400-f299-11ea-95d5-e26d59fe82bb.png)
 
 ## 🚀The Project
-Proffy was developed during Next Level week event of Rocketseat. This cool responsive project wants to reunite teachers and students interested in online classes.
+Proffy was developed during Next Level week event of [Rocketseat]. This cool responsive project wants to reunite teachers and students interested in online classes.
 <br>
 <br>
 
